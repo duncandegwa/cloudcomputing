@@ -1,4 +1,5 @@
 <?php
+
 require_once(LIB_PATH.DS.'database.php');
 class Setting {
 	protected static  $tblname = "tblsetting";
